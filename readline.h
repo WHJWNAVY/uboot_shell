@@ -4,6 +4,6 @@
 #include "type.h"
 #include "shell_config.h"
 
-extern int8*    readline (const int8* const prompt);  /* readline */
+extern int8 *readline(const int8 *const prompt); /* readline */
 
 #endif
