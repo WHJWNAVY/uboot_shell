@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "path": "./src"
+        }
+    ],
+    "settings": {
+        "C_Cpp.default.includePath": [
+            "${workspaceFolder}",
+            "${workspaceFolder}/include"
+        ],
+        "files.exclude": {
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/CVS": true,
+            "**/.DS_Store": true
+        }
+    }
+}
